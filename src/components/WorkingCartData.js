@@ -7,21 +7,21 @@ const ProjectCardData = [
     {
         imgsrc: pro1,
         title: "ecommerce website design",
-        text: "We have still not received the amount that was due in regards to that a formal complaint has been sent to the appropriate authorities( CREDIT BUREAU) concerning the loan repayment you are owing",
+        text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis itaque aliquid sit tenetur culpa praesentium expedita, inventore eum illo mollitia exercitationem, magnam a amet accusamus nulla veniam, fugit animi iste architecto quia placeat quos ex facilis. Placeat doloribus aperiam commodi, vitae, pariatur reiciendis vel tenetur a numquam tempore temporibus nemo?",
         view: "https://youtu.be/N3s1g9DBVIQ?si=ZFBDAkJmpVpxkReY"
 
     },
     {
         imgsrc: pro2,
         title: "ecommerce website design",
-        text: "We have still not received the amount that was due in regards to that a formal complaint has been sent to the appropriate authorities( CREDIT BUREAU) concerning the loan repayment you are owing",
+        text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis itaque aliquid sit tenetur culpa praesentium expedita, inventore eum illo mollitia exercitationem, magnam a amet accusamus nulla veniam, fugit animi iste architecto quia placeat quos ex facilis. Placeat doloribus aperiam commodi, vitae, pariatur reiciendis vel tenetur a numquam tempore temporibus nemo?",
         view: "https://youtu.be/N3s1g9DBVIQ?si=ZFBDAkJmpVpxkReY"
 
     },
     {
         imgsrc: pro3,
         title: "ecommerce website design",
-        text: "We have still not received the amount that was due in regards to that a formal complaint has been sent to the appropriate authorities( CREDIT BUREAU) concerning the loan repayment you are owing",
+        text: "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis itaque aliquid sit tenetur culpa praesentium expedita, inventore eum illo mollitia exercitationem, magnam a amet accusamus nulla veniam, fugit animi iste architecto quia placeat quos ex facilis. Placeat doloribus aperiam commodi, vitae, pariatur reiciendis vel tenetur a numquam tempore temporibus nemo?",
         view: "https://youtu.be/N3s1g9DBVIQ?si=ZFBDAkJmpVpxkReY"
 
     },
